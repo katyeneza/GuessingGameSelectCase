@@ -1,0 +1,11 @@
+H:\GitHub\GuessingGameSelectCase\GuessingGameSelectCase\bin\Debug\GuessingGameSelectCase.exe.config
+H:\GitHub\GuessingGameSelectCase\GuessingGameSelectCase\bin\Debug\GuessingGameSelectCase.exe
+H:\GitHub\GuessingGameSelectCase\GuessingGameSelectCase\bin\Debug\GuessingGameSelectCase.pdb
+H:\GitHub\GuessingGameSelectCase\GuessingGameSelectCase\bin\Debug\GuessingGameSelectCase.xml
+H:\GitHub\GuessingGameSelectCase\GuessingGameSelectCase\obj\Debug\GuessingGameSelectCase.Form1.resources
+H:\GitHub\GuessingGameSelectCase\GuessingGameSelectCase\obj\Debug\GuessingGameSelectCase.Resources.resources
+H:\GitHub\GuessingGameSelectCase\GuessingGameSelectCase\obj\Debug\GuessingGameSelectCase.vbproj.GenerateResource.Cache
+H:\GitHub\GuessingGameSelectCase\GuessingGameSelectCase\obj\Debug\GuessingGameSelectCase.exe
+H:\GitHub\GuessingGameSelectCase\GuessingGameSelectCase\obj\Debug\GuessingGameSelectCase.xml
+H:\GitHub\GuessingGameSelectCase\GuessingGameSelectCase\obj\Debug\GuessingGameSelectCase.pdb
+H:\GitHub\GuessingGameSelectCase\GuessingGameSelectCase\obj\Debug\GuessingGameSelectCase.vbprojResolveAssemblyReference.cache
